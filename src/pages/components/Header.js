@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4ff578b0edd3b916f6b42d4312551a0a47e7050f
 function Header() {
     return (
         <header className='header'>
